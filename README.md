@@ -631,43 +631,7 @@ We will study operators later.
 
 ---
 
-# 20. Browser JavaScript vs Node.js
-
-Try this in the browser console:
-
-```js
-console.log(window);
-```
-
-The browser provides a `window` object.
-
-Now create:
-
-```text
-test.js
-```
-
-and write:
-
-```js
-console.log(window);
-```
-
-Run:
-
-```bash
-node test.js
-```
-
-You will discover that Node.js does not provide the browser's `window` object in the same way.
-
-This demonstrates an important concept:
-
-> The JavaScript language can be the same while the runtime environment provides different APIs and capabilities.
-
----
-
-# 21. The Big Picture
+# 20. The Big Picture
 
 At this point, understand this architecture:
 
@@ -698,7 +662,7 @@ PostgreSQL / MongoDB
 
 ---
 
-# 22. Our Final Project
+# 21. Our Final Project
 
 Throughout this course, we will progressively build a:
 
@@ -744,7 +708,7 @@ We will build the foundation first.
 
 ---
 
-# 23. The Learning Path
+# 22. The Learning Path
 
 Our progression is:
 
@@ -782,7 +746,7 @@ That is why we are starting with JavaScript fundamentals.
 
 ---
 
-# 24. Practical Exercise 1 — Personal Introduction
+# 23. Practical Exercise 1 — Personal Introduction
 
 Create:
 
@@ -816,7 +780,7 @@ node exercise1.js
 
 ---
 
-# 25. Practical Exercise 2 — Five Messages
+# 24. Practical Exercise 2 — Five Messages
 
 Create:
 
@@ -840,7 +804,7 @@ Use your own messages.
 
 ---
 
-# 26. Practical Exercise 3 — Numbers
+# 25. Practical Exercise 3 — Numbers
 
 Create:
 
@@ -873,7 +837,7 @@ We will study them properly.
 
 ---
 
-# 27. Practical Exercise 4 — Browser Console
+# 26. Practical Exercise 4 — Browser Console
 
 Open the browser console and execute:
 
@@ -901,7 +865,7 @@ console.log("Student Management System");
 
 ---
 
-# 28. Practical Exercise 5 — Compare Environments
+# 27. Practical Exercise 5 — Compare Environments
 
 Run this in your browser console:
 
@@ -929,7 +893,7 @@ even though both can execute JavaScript.
 
 ---
 
-# 29. Common Beginner Mistakes
+# 28. Common Beginner Mistakes
 
 ## Mistake 1: Thinking Node.js is a programming language
 
@@ -1015,7 +979,7 @@ Debugging is part of professional development.
 
 ---
 
-# 30. The Professional Development Cycle
+# 29. The Professional Development Cycle
 
 From the beginning, develop this habit:
 
@@ -1047,7 +1011,7 @@ Full-stack systems
 
 ---
 
-# 31. What You Should Understand — Not Memorize
+# 30. What You Should Understand — Not Memorize
 
 You should understand these ideas:
 
@@ -1081,7 +1045,7 @@ A package manager used to install and manage JavaScript packages.
 
 ---
 
-# 32. Teacher Checkpoint
+# 31. Teacher Checkpoint
 
 Before moving to Lesson 2, the learner should answer these questions without simply reading the answers.
 
@@ -1127,7 +1091,7 @@ Why should a programmer run their code frequently while developing?
 
 ---
 
-# 33. Mini Challenge
+# 32. Mini Challenge
 
 Without copying an example, create:
 
@@ -1156,7 +1120,7 @@ We will introduce variables in the next lesson.
 
 ---
 
-# 34. Lesson Summary
+# 33. Lesson Summary
 
 In this lesson, we established the foundation of the entire course.
 
